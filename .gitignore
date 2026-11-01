@@ -1,0 +1,6 @@
+.venv/
+qa-example-data/
+replaced-originals/
+out/
+.DS_Store
+__pycache__/
