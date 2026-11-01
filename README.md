@@ -10,10 +10,7 @@ so a screenshot of any frame tells you exactly which file it came from.
 ## 1. Just want the files? Download them
 
 You do not need to run any code. Download the ready-made files:
-
-- Automation set (the smallest file of every format, for automated tests): https://qa-example.com/automation-qa-example-files
-- Manual set (every format, size and duration, for manual testing): https://qa-example.com/manual-qa-example-files
-- Everything: https://qa-example.com/all-qa-example-files
+- https://qa-example.com
 
 ## 2. Generate the files yourself
 
