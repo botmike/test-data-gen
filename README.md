@@ -10,14 +10,16 @@ so a screenshot of any frame tells you exactly which file it came from.
 ## 1. Just want the files? Download them
 
 You do not need to run any code. Download the ready-made files:
-- https://qa-example.com
+
+
+- Everything: https://qa-example.com
 
 ## 2. Generate the files yourself
 
 ### Quick start (macOS or Ubuntu/Debian)
 
 ```
-git clone <this repo>
+git clone https://github.com/botmike/test-data-gen.git
 cd test-data-gen
 bash setup.sh
 source .venv/bin/activate
